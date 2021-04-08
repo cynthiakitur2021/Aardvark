@@ -1,0 +1,22 @@
+	
+<style>   
+img { width: 250px;
+      height:250px;
+       align-self: center;
+      margin: auto;
+      display: block; }
+
+ p{text-align: center;
+    color: red}
+
+    ul{text-align: left;}
+   #kgr {float: right;}
+
+   #pba{  text-align: center;
+   color: blue;
+   font-family: cursive;
+    }
+    #yt{display: block;}
+    #mnw{text-align: justify;}
+
+    </style>
